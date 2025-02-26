@@ -1,6 +1,6 @@
 # Tech_News
 
-The most recent technological advances
+The most interesting topics from my personal tech watch.
 
 ---
 
