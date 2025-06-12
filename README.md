@@ -1,4 +1,4 @@
-# Tech_News
+# Tech_Watch
 
 The most interesting topics from my personal Tech Watch.
 
